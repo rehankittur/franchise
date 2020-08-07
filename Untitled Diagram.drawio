@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2020-08-07T02:38:23.953Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" version="13.6.0" etag="PY21XEABn7PzRbjLV1ow" type="github"><diagram id="8hPIG7cBRbDfmpSQ7kmp">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-08-07T02:54:31.631Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="4bgg9iJ6Iz033bxqY1nL" version="13.6.0" type="github">
+  <diagram id="8hPIG7cBRbDfmpSQ7kmp" name="Page-1">
+    <mxGraphModel dx="782" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jZo3M27tsW3K0_Fo5ItZ-1" value="technia.in Hosted in the Server&lt;br&gt;(Technia.in)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="10" width="330" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jZo3M27tsW3K0_Fo5ItZ-3" value="Direct-Contact" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="110" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jZo3M27tsW3K0_Fo5ItZ-4" value="Technia.in/name" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="220" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jZo3M27tsW3K0_Fo5ItZ-8" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="240" y="80" width="360" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="jZo3M27tsW3K0_Fo5ItZ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="jZo3M27tsW3K0_Fo5ItZ-3" target="jZo3M27tsW3K0_Fo5ItZ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jZo3M27tsW3K0_Fo5ItZ-17" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="100" width="50" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="jZo3M27tsW3K0_Fo5ItZ-18" value="Create a User in the Server, and give access to the user to a Particular Folder" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="40" width="250" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jZo3M27tsW3K0_Fo5ItZ-19" value="Create a User in the Server, and give access to the user to a Particular Folder1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="300" width="250" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jZo3M27tsW3K0_Fo5ItZ-20" value="Francahise-based" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="120" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
